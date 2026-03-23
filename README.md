@@ -20,5 +20,5 @@ AI-powered fire detection using computer vision. Upload images and get instant f
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/revathi9925/fireguard.git](https://github.com/revathi9925/cnn_fireguard)
+git clone https://github.com/revathi9925/cnn_fireguard
 cd fireguard
