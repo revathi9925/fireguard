@@ -1,0 +1,7 @@
+1. Create folder
+2. Save code as app.py
+3. Open terminal in folder
+4. Install: pip install streamlit tensorflow opencv-python
+5. Run: streamlit run app.py
+6. Open browser to: http://localhost:8501
+7. Train model first, then use detection
